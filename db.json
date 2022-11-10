@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st Post",
+      "datetime": "July 01, 2021 11:12:26",
+      "body": "Lorem Ipsum Dolor Sir"
+    },
+    {
+      "id": 2,
+      "title": "2nd Post",
+      "datetime": "July 02, 2021 12:13:36",
+      "body": "Lorem Ipsum Dolor Sir"
+    },
+    {
+      "id": 3,
+      "title": "3rd Post",
+      "datetime": "July 03, 2021 15:11:06",
+      "body": "Lorem Ipsum Dolor Sir"
+    },
+    {
+      "id": 4,
+      "title": "4th Post",
+      "datetime": "July 04, 2021 15:15:52",
+      "body": "Lorem Ipsum Dolor Sir"
+    },
+    {
+      "id": 5,
+      "title": "5th Post",
+      "datetime": "July 04, 2021 15:15:52",
+      "body": "Lorem Ipsum Dolor Sir"
+    },
+    {
+      "id": 6,
+      "title": "6th Post",
+      "datetime": "July 04, 2021 15:15:52",
+      "body": "Lorem Ipsum Dolor Sir"
+    }
+  ]
+}

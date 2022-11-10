@@ -1,0 +1,13 @@
+import Post from "./Post";
+
+function Feed({ posts }) {
+  return (
+    <div>
+      {posts.map((post) => (
+        <Post key={post.id} post={post} />
+      ))}
+    </div>
+  );
+}
+
+export default Feed;

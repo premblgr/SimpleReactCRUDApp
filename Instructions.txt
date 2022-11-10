@@ -1,0 +1,9 @@
+Instructions : 
+
+Fake JSON SERVER to install on another port than 3000 (open another terminal window) : 
+
+commandline :  json-server --watch db.json --port 3500
+
+Desc : 
+
+Simple CRUD app on the React theme.
